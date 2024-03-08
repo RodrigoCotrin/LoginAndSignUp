@@ -7,7 +7,7 @@ Projeto independente desenvolvido em Kotlin com intuito de aprender mais sobre F
 
 #### <strong>Status: </strong>Concluído ✔️
 
-![ImagemProjeto](f1.png)  ![ImagemProjeto](f2.png) ![ImagemProjeto](f3.png)  
+![ImagemProjeto](f1.png) ![ImagemProjeto](f3.png)  
 
 # Tecnologias utilizadas 💻
 - [X] Kotlin
