@@ -3,11 +3,11 @@
 ## Sobre esse projeto 💡
 
 
-Projeto independente desenvolvido em Kotlin com intuito de aprender mais sobre firedatabase
+Projeto independente desenvolvido em Kotlin com intuito de aprender mais sobre Firedatabase
 
 #### <strong>Status: </strong>Concluído ✔️
 
-![ImagemProjeto](imagemprojeto.png)
+![ImagemProjeto](f1.png)  ![ImagemProjeto](f2.png) ![ImagemProjeto](f3.png)  
 
 # Tecnologias utilizadas 💻
 - [X] Kotlin
